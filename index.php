@@ -10,6 +10,8 @@
     <h1>Mon test</h1>
     <?php 
      echo 'Bonjour';
+    
+     /* Some Comments */;
     ?>
 </body>
 </html>
