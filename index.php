@@ -16,6 +16,7 @@
      /* Nouveau test */
           /* Test ok */
 
+          /**Branche d'inscription */
     ?>
 </body>
 </html>
