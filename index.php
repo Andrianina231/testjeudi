@@ -17,6 +17,7 @@
           /* Test ok */
 
           /**Branche d'inscriptions */
+          /**Branche d'inscription */
     ?>
 </body>
 </html>
