@@ -12,6 +12,8 @@
      echo 'Bonjour';
     
      /* Some Comments */;
+
+     /* Nouveau test */
     ?>
 </body>
 </html>
